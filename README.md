@@ -1,6 +1,6 @@
 # Sound Data Clustering with K-Means and DBSCAN
 
-This project explores unsupervised clustering of unlabelled sound data using MFCC-based feature extraction and two popular clustering algorithms: **K-Means** and **DBSCAN**. It includes preprocessing, dimensionality reduction, clustering evaluation, and visualization.
+This project explores unsupervised clustering of [unlabelled sound data](https://drive.google.com/file/d/1bme1IuScdIWjzFkYPOcWzFOgD50MS_zR/view) using MFCC-based feature extraction and two popular clustering algorithms: **K-Means** and **DBSCAN**. It includes preprocessing, dimensionality reduction, clustering evaluation, and visualization.
 
 ---
 
